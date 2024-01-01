@@ -1,7 +1,7 @@
 using FluentValidation;
 using Organizarty.Domain.Exceptions;
 
-namespace Organizarty.Utils.Extensions;
+namespace Organizarty.Utils.Validations.Extensions;
 
 public static class ValidatorExtension
 {
