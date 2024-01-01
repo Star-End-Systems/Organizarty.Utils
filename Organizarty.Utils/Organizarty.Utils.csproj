@@ -4,6 +4,11 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+		<PackageId>Organizarty.Utils</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Lucas Santos</Authors>
+    <Description>Utils lib for Organizarty</Description>
+    <RepositoryUrl> https://github.com/Star-End-Systems/Organizarty.Utils </RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
